@@ -1,19 +1,3 @@
-Skip to content
-
-Search…
-All gists
-Back to GitHub
-@trinhhien95
-@hoanghaivu
-hoanghaivu/index.php Secret
-Last active 24 days ago • Report abuse
-0
-0
-Code
-Revisions 4
-<script src="https://gist.github.com/hoanghaivu/094bd77bc61b93e8035a539a39c9800c.js"></script>
-Observer Pattern
-index.php
 <?php
 
 /**
